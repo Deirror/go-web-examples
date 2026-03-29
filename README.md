@@ -1,4 +1,4 @@
-# Go Web Examples
+# Web Examples
 
 Description
 -
